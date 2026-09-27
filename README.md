@@ -1,4 +1,4 @@
-# Phobicue-Jiong-View Visual Censor
+g# Phobicue-Jiong-View Visual Censor
 
 A Windows desktop application that detects objects using object detection model in real time
 from a window, automatically applies censorship to frames and transfers them to another window.
@@ -42,7 +42,7 @@ before transferring it onto an interactive PyQt6 window for viewing & interactio
 
 Clone the repository and install the required Python packages:
 
-    git clone https://github.com/chandler20060524-droid/Phobicue-Jiong-View.git
+    git clone https://github.com/demingQian/Phobicue-Jiong-View.git
     cd Phobicue-Jiong-View
     pip install -r requirements.txt
 
