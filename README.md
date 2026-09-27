@@ -149,3 +149,6 @@ The application will show warnings after certain user actions. They are not erro
 
 It is recommended to adjust the target window to a desired size before launching the main application, as
 changing original window size when the application is running is prone to cause an error. 
+
+Please refer to this link for more specific instructions: 
+https://demingqian.github.io/portfolio-demingQian/project_demo/pjv.html
